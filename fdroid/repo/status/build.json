@@ -1,0 +1,1 @@
+{"/etc/issue.net":"Ubuntu 22.04.2 LTS","commandLine":["/home/bart/fdroid-staging/venv/bin/fdroid build","-l","--all"],"endTimestamp":1699654108584,"failedBuilds":[],"startTimestamp":1699650497000,"subcommand":"build","successfulBuildIds":[["it.vfsfitvnm.vimusic",21]]}
