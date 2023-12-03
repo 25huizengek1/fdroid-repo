@@ -4,6 +4,7 @@
     "timestamp": 1701631250000
   },
   "packages": {
+    "fda3317779b3700727c2bea341beec5fc376402e1293c7b1a6a1479da1369489": null,
     "it.vfsfitvnm.vimusic": {
       "metadata": {
         "added": 1699574400000,
@@ -32,15 +33,6 @@
     },
     "it.vfsfitvnm.vimusic.nightly": {
       "metadata": {
-        "added": 1701561600000,
-        "categories": [
-          "Multimedia"
-        ],
-        "changelog": "https://github.com/25huizengek1/ViMusic/releases",
-        "issueTracker": "https://github.com/25huizengek1/ViMusic/issues",
-        "lastUpdated": 1701561600000,
-        "license": "GPL-3.0-or-later",
-        "sourceCode": "https://github.com/25huizengek1/ViMusic",
         "screenshots": {
           "phone": {
             "en-US": [
@@ -77,75 +69,18 @@
             ]
           }
         },
-        "authorName": "vfsfitvnm",
-        "name": {
-          "en-US": "ViMusic Nightly"
-        },
         "icon": {
           "en-US": {
             "name": "/it.vfsfitvnm.vimusic.nightly/en-US/icon_ymX5Rc9eGDW7ajdnZg6DEN8vs852DAnEW_K5IYdUXYU=.png",
             "sha256": "ca65f945cf5e1835bb6a3767660e8310df2fb3ce760c09c45bf2b92187545d85",
             "size": 15500
           }
-        },
-        "preferredSigner": "c93c5c63edde881b818dcb7ae47294e9c01c98d282864ca46563c139cc82f4fe"
+        }
       },
       "versions": {
         "95c91ca452859440748049b5c494c96605902ae03b6d3bb4a1cfa4617f7bb07a": {
-          "added": 1701561600000,
           "file": {
-            "name": "/it.vfsfitvnm.vimusic.nightly_26.apk",
-            "sha256": "95c91ca452859440748049b5c494c96605902ae03b6d3bb4a1cfa4617f7bb07a",
-            "size": 3551562
-          },
-          "manifest": {
-            "versionName": "0.5.10-NIGHTLY",
-            "versionCode": 26,
-            "usesSdk": {
-              "minSdkVersion": 21,
-              "targetSdkVersion": 34
-            },
-            "signer": {
-              "sha256": [
-                "c93c5c63edde881b818dcb7ae47294e9c01c98d282864ca46563c139cc82f4fe"
-              ]
-            },
-            "usesPermission": [
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.POST_NOTIFICATIONS"
-              },
-              {
-                "name": "android.permission.WAKE_LOCK"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
-              },
-              {
-                "name": "android.permission.READ_EXTERNAL_STORAGE",
-                "maxSdkVersion": 32
-              },
-              {
-                "name": "android.permission.READ_MEDIA_AUDIO"
-              },
-              {
-                "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "it.vfsfitvnm.vimusic.nightly.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-              }
-            ]
-          },
-          "antiFeatures": {
-            "NonFreeNet": {}
+            "name": "/it.vfsfitvnm.vimusic.nightly_26.apk"
           }
         }
       }

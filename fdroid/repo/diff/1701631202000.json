@@ -1,0 +1,18 @@
+{
+  "repo": {
+    "timestamp": 1701631250000
+  },
+  "packages": {
+    "it.vfsfitvnm.vimusic.nightly": {
+      "metadata": {
+        "added": 1701561600000,
+        "lastUpdated": 1701561600000
+      },
+      "versions": {
+        "95c91ca452859440748049b5c494c96605902ae03b6d3bb4a1cfa4617f7bb07a": {
+          "added": 1701561600000
+        }
+      }
+    }
+  }
+}
