@@ -1,1 +1,1 @@
-{"/etc/issue.net":"Ubuntu 22.04.2 LTS","commandLine":["/home/bart/fdroid-staging/venv/bin/fdroid build","-l","me.huizengek.snpack"],"endTimestamp":1708304792881,"failedBuilds":[],"startTimestamp":1708301045000,"subcommand":"build","successfulBuildIds":[["me.huizengek.snpack",3]]}
+{"/etc/issue.net":"Ubuntu 22.04.2 LTS","commandLine":["/home/bart/fdroid-staging/venv/bin/fdroid build","-l","it.vfsfitvnm.vimusic"],"endTimestamp":1708821816127,"failedBuilds":[],"startTimestamp":1708818018000,"subcommand":"build","successfulBuildIds":[["it.vfsfitvnm.vimusic",33]]}
