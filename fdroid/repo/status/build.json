@@ -1,1 +1,1 @@
-{"/etc/issue.net":"Ubuntu 22.04.4 LTS","commandLine":["/usr/bin/fdroid build","-l","app.vitune.android","--skip-scan"],"endTimestamp":1736457897193,"failedBuilds":[],"startTimestamp":1736454043000,"subcommand":"build","successfulBuildIds":[["app.vitune.android",13]]}
+{"/etc/issue.net":"Ubuntu 22.04.4 LTS","commandLine":["/home/bart/fdroid-staging/venv/bin/fdroid build","-l","app.vitune.android","--skip-scan"],"endTimestamp":1737824597059,"failedBuilds":[],"startTimestamp":1737820655000,"subcommand":"build","successfulBuildIds":[["app.vitune.android",14]]}

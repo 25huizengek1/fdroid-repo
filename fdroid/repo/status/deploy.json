@@ -1,1 +1,1 @@
-{"/etc/issue.net":"Ubuntu 22.04.4 LTS","commandLine":["/usr/bin/fdroid deploy"],"endTimestamp":1736458354847,"startTimestamp":1736454744000,"subcommand":"deploy"}
+{"/etc/issue.net":"Ubuntu 22.04.4 LTS","commandLine":["/home/bart/fdroid-staging/venv/bin/fdroid deploy"],"endTimestamp":1736544226536,"startTimestamp":1736540619000,"subcommand":"deploy"}
